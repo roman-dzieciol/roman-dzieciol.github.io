@@ -23,5 +23,6 @@
   "homepage": "https://github.com/roman-dzieciol/roman-dzieciol.github.io#readme",
   "scripts": {
     "build:demo": "fiddly",
+    "lint:md" : "fiddly deploy"
   }
 }
