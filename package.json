@@ -1,3 +1,27 @@
 {
-  "now-build": "fiddly"
+  "now-build": "fiddly",
+  "devDependencies": {
+    "fiddly": "^0.8.0"
+  },
+  "name": "roman-dzieciol.github.io",
+  "description": "Home page",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roman-dzieciol/roman-dzieciol.github.io.git"
+  },
+  "author": "roman.dzieciol@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/roman-dzieciol/roman-dzieciol.github.io/issues"
+  },
+  "homepage": "https://github.com/roman-dzieciol/roman-dzieciol.github.io#readme",
+  "scripts": {
+    "build:demo": "fiddly",
+  }
 }
