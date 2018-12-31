@@ -1,3 +1,4 @@
 {
-	"darkTheme": true
+	"darkTheme": false,
+	"noHeader" : true
 }
